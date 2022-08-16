@@ -1,0 +1,40 @@
+_repo: Parasken-runot_68543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin Paraske
+    aliases:
+    - Paraskena, Nikitina
+    - Paraske, Larin
+    birthdate: 1833
+    deathdate: 1904
+    gutenberg_agent_id: '54804'
+    url: http://www.gutenberg.org/2009/agents/54804
+    wikipedia: https://fi.wikipedia.org/wiki/Larin_Paraske
+  editor:
+    agent_name: Neovius, Adolf
+    alias: Neovius, Adolf Alarik
+    birthdate: 1858
+    deathdate: 1913
+    gutenberg_agent_id: '54821'
+    url: http://www.gutenberg.org/2009/agents/54821
+    wikipedia: https://fi.wikipedia.org/wiki/Adolf_Neovius
+description: ''
+gutenberg_issued: '2022-07-17'
+identifiers:
+  gutenberg: '68543'
+language: fi
+pgterms:marc905: 20220711015008neovius
+pgterms:marc906: '1893'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :Werner Söderström,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk poetry, Finnish'
+- !lcc 'PH'
+- GITenberg
+title: Parasken runot
+url: http://www.gutenberg.org/ebooks/68543
